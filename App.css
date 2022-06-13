@@ -1,0 +1,9 @@
+.App{
+  text-align: center;  
+}
+
+.showCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

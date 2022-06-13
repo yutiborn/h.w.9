@@ -1,0 +1,18 @@
+.showCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card{
+    border: 12px solid palevioletred;
+    background-color: bisque;
+    width:25%;
+    text-align: center;
+
+}
+
+img{
+    width: 20%;
+    height:20% ;
+}
